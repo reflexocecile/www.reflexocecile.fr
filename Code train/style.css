@@ -1,0 +1,101 @@
+p{
+    color: darkblue;
+    font-size: 25px ;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+}
+
+h1.headline{
+    font-size: 75px ;
+    color: darkcyan;
+    padding: 25px;
+    background-color: ;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+nav.menu ul li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 25px;
+    background-color: lightblue;
+    
+}
+img{
+    width: 500px;
+    height: 500px;
+
+}
+nav.menu ul li:hover a{
+    color: lightblue;
+    background-color: black;
+    
+
+}
+
+p.copy{
+    color: black;
+}
+
+div#content div.leftbox{
+background-color: white;
+vertical-align: top;
+}
+
+div#content div.rightbox{
+    background-color:blue;
+    vertical-align: top;
+}
+div#content div{
+    display: inline-block;
+}
+
+}
+header{
+     
+}
+h1.slt{
+    font-size: 50px;
+}
+p.zer{
+    
+    color:blue
+}
+nav.n ul li.p{
+
+}
+.button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+    ;
+}
+img.df{
+    width: 200px;
+    height: 200px;
+}
+h1.za{
+    font-size: 50px;
+    color: chartreuse;
+}
+body.aze{
+    background-color: darkred;
+}
+p.xa{
+    color: greenyellow;
+    font-size: 35px;
+}
+img.df{
+    
+}
